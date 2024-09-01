@@ -11,12 +11,15 @@
 - ❓ Ask me about anything related to UI Design, Java programming, C++,python.
 
 💡 How might the principles of UI design, combined with my expertise in Java programming and C++, contribute to exploring the concept of simulated realities, as proposed by the simulation hypothesis? Let's dive into the intersection of technology and philosophy!
+<br/>
+## Skills 🛠️
 
-
-  
-
-
-<br/>  
+- 💻 Programming Languages: C, C++,javascript, Java, Python.
+- 📊 Data Structures and Algorithm.
+- 🌐 Web Development: HTML, CSS, JavaScript, NodeJS, ExpressJS, ReactJS.
+- ⚙️ Frameworks Known: Spring-boot,Collection Framework.
+- 🗄️ Databases: SQL( MySQL), NoSQL(MongoDB).
+- 🕸️ In Addition: Docker | Web Scraping | Postman.
  
 
 ## Stats 
