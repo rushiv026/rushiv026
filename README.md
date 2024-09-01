@@ -97,7 +97,7 @@
  
 
 </p><a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilokhande&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushiv026&layout=compact" alt="Top Languages">
 </a>
 
 
